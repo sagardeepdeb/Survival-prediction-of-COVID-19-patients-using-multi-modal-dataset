@@ -23,13 +23,12 @@ Finally the AUROC curve is given in figure below
 ## Citation
 Please cite our paper if you find the work useful: 
 <pre>
-  @INPROCEEDINGS{10040102,
+@inproceedings{deb2022survival,
+  title={Survival prediction of COVID-19 patients using multi-modal dataset},
   author={Deb, Sagar Deep and Jha, Rajib Kumar and Talera, Yash and Tripathy, Prem S and Agrawal, Simran and Jha, Kamlesh},
-  booktitle={2022 IEEE 19th India Council International Conference (INDICON)}, 
-  title={Survival prediction of COVID-19 patients using multi-modal dataset}, 
+  booktitle={2022 IEEE 19th India Council International Conference (INDICON)},
+  pages={1--6},
   year={2022},
-  volume={},
-  number={},
-  pages={1-6},
-  doi={10.1109/INDICON56171.2022.10040102}}
+  organization={IEEE}
+}
 </pre>
