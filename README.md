@@ -1,6 +1,6 @@
 # Survival-prediction-of-COVID-19-patients-using-multi-modal-dataset
 
-This repository contains code and dataset for the paper titled "Survival prediction of COVID-19 patients using multi-modal dataset", accepted at 2022 IEEE 19th India Council International Conference (INDICON) and the paper can be obtained from [here](https://ieeexplore.ieee.org/abstract/document/10040102).
+# This repository contains code and dataset for the paper titled "Survival prediction of COVID-19 patients using multi-modal dataset", accepted at 2022 IEEE 19th India Council International Conference (INDICON) and the paper can be obtained from [here](https://ieeexplore.ieee.org/abstract/document/10040102).
 
 
 The proposed Bi-Stream Gated Attention-based CNN (BSGA-CNN) model is used to classify the Clinical data collected from COVID-19-positive patients admitted at MGM college and hospital as shown in figure \ref{GA-CNN}. As the name suggests, it contains two streams of convolutional layers: the lower-hand-side convolutional layer (LHSC) and the upper-hand-side Convolutional layer (UHSC). Both of them use an attention module followed by a Gated sigmoid activation.
